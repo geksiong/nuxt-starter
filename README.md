@@ -1,5 +1,23 @@
 # nuxt-starter
 
+## About
+
+A starter for Nuxt projects
+
+### create-nuxt-app options
+
+- Programming language: TypeScript
+- Package manager: Yarn
+- UI framework: Tailwind CSS
+- Nuxt.js modules: Axios, Progressive Web App (PWA), Content
+- Linting tools: ESLint, Prettier, Lint staged files, StyleLint, Commitlint
+- Testing framework: None
+- Rendering mode: Universal (SSR / SSG)
+- Deployment target: Static (Static/JAMStack hosting)
+- Development tools: None
+- Continuous integration: None
+- Version control system: Git
+
 ## Build Setup
 
 ```bash
