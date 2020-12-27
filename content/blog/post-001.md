@@ -4,20 +4,81 @@ description: Markdown formatting
 date: 2020-12-27
 ---
 
-## Lorem Ipsum in Various Languages
+Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.
 
-### Latin
+Nunc tristique velit ligula. Phasellus vel massa a lorem facilisis interdum ut ac erat. Sed convallis a nisi non elementum. Vivamus ac ultricies dolor. Fusce in erat rhoncus, ultrices ante placerat, vulputate odio. Aliquam porta varius enim vitae tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur augue mauris, in scelerisque mauris dictum nec. Pellentesque a venenatis est. Curabitur ut quam tempus, dictum elit nec, vehicula dui. Nunc vestibulum lorem ac finibus consequat.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus suscipit erat, eget auctor dolor molestie id. Nam vulputate ipsum at nisi pulvinar, vel molestie elit ullamcorper. Sed cursus, enim ac consequat egestas, felis ante interdum ante, vel fermentum sem orci eu sapien. Vestibulum varius, ante rutrum placerat pellentesque, erat lectus dapibus diam, quis porta felis eros eget libero. Aliquam magna urna, fermentum ut lectus nec, maximus mattis mi. Maecenas vel augue sagittis, luctus enim vitae, consectetur nulla. Proin consequat, eros in venenatis scelerisque, libero eros faucibus massa, a molestie felis lectus eget tellus. Nulla malesuada placerat tellus, at sagittis orci pretium non. Proin mollis justo quis leo viverra, at maximus sem vestibulum. Integer euismod dolor id interdum tincidunt.
+# Heading 1
 
-### Chinese
+Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.
 
-実同均文月断申放仕権属駒単。住齢更筑好急禁太翻掲界与棋近。務施夏勝責通吉差然院労軍。島特季権針都子最局島球保帰率社読情館社宣。府候団能逆志団以崎論第生意音張。雪護毎位告先信者増談告猫株専一放月得。感黒獲堂失木真心葉著遠能外由。短考載町邊元適員江変互文親逃勤将片提続会。売隠社線所報暮治状真化橋能記旬景就鮮領多。
+## Heading 2
 
-### Japanese
+命子旅北続辞系京課加行一情自要能支未季。白題字聞個著安内壊評安身名。産調結一阿題旅稿協調景康属。提越房効活拝都以営古帯車的界価介表五避迂。日芸国体若滋表体断浜能那工。宏保時野様文認紙打産参長格現。魅療紹帳申街慎軽員画員芸砂似額古令芸囲取。鉄稿実記人森海能年名米医。舞写自祭葉容園趣集聞測報音答橋標済。
 
-奪マケ務質ヒ新入ずひ朝著くいぜん意向がッほな氏78社堀マト奪元めりる劇公だあぜ正90捕七俊続85売書ツヒ核広そやぐ属患ト支上オ刻政ニモナ退共西稲しつご。交かルふ選意おなス故慶タ城招ニ供輸る済食ヨロネニ聞体ぽべぞ総相コエスメ分役ノセケ玉伝健彫容丼冨奔よびげし。81提だ品企ツシヒ演検ゆつ君転ロリ未19厳ソ要掲表えぎ協円イ歳情村てとれフ無翻ロアエ概査句搭星ルけと。
+### Heading 3
 
-### Korean
+新ヤイク井燃9価ネ力読ユサ田経ル払領がねぐゃ期鈴ぶぱレ転富じま懸示テコ縮規ラルそ訓売歳東合82識やてかほ貿表帰歴画れスレ。一5有きゆう予段ぜげうれ目戦ノ春所モマネ団載むクざゅ飛属やふろ何立らクぜー数方転ホルカア条62員モレス与幕ヘナタコ理64幌拉柳飾ゃぎリし。国メ氷山ソヨチカ木転ね集芸へゅ更柱イヨ向選長おひづた然身びもぜ申能る日業ナルリ例辺っでば国天そぐ全勝変ミソ人概きかス党万所えぜ。
 
-국회는 헌법 또는 법률에 특별한 규정이 없는 한 재적의원 과반수의 출석과 출석의원 과반수의 찬성으로 의결한다. 다만, 국가는 대외무역을 육성하며. 공무원의 직무상 불법행위로 손해를 받은 국민은 법률이 정하는 바에 의하여 국가 또는 공공단체에 정당한 배상을 청구할 수 있다.
+#### Heading 4
+
+대법원에 대법관을 둔다, 국정의 중요한 사항에 관한 대통령의 자문에 응하기 위하여 국가원로로 구성되는 국가원로자문회의를 둘 수 있다, 국가안전보장에 관련되는 대외정책·군사정책과 국내정책의 수립에 관하여 국무회의의 심의에 앞서 대통령의 자문에 응하기 위하여 국가안전보장회의를 둔다. 헌법재판소 재판관은 탄핵 또는 금고 이상의 형의 선고에 의하지 아니하고는 파면되지 아니한다.
+
+##### Heading 5
+
+Aini nauva hwinya ta írë. Ollo caurë antorya iel vi, pé hahta lenca wén, tuc felmë yelma lanwa lú. Né nor tólë telpina simpetar, ara má linta larca etéraettul. Mi lápa sarnë pelentul ilu.
+
+###### Heading 6
+
+Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.
+
+# Typography
+
+Lid est laborum et dolorum fuga, This is [an example](http://example.com/ "Title") inline link. Et harum quidem rerum facilis, **This is bold** and *emphasis* cumque nihilse ~~strikethough~~ impedit quo minus id quod amets untra dolor amet sad.
+## Blockquotes
+
+This is blockquote, Will make it *better now*
+
+> 'I want to do with you what spring does with the cherry trees.' <cite>cited ~Pablo Neruda</cite>*
+
+> Et harum quidem *rerum facilis* est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit
+
+> Blockquotes can also be nested...
+>> ...by using additional greater-than signs right next to each other...
+> > > ...or with spaces between arrows.
+
+## Lists
+
+### Unordered list
+
+* Red
+* Green
+* Blue
+
+### Ordered list
+
+1. Red
+2. Green
+3. Blue
+
+## Tables
+
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
+Right aligned columns
+
+| Option | Description |
+| ------:| -----------:|
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
+### Inline Markdown within tables
+
+| Inline&nbsp;&nbsp;&nbsp;     | Markdown&nbsp;&nbsp;&nbsp;  | In&nbsp;&nbsp;&nbsp;                | Table      |
+| ---------- | --------- | ----------------- | ---------- |
+| *italics*  | **bold**  | ~~strikethrough~~&nbsp;&nbsp;&nbsp; | `code`     |

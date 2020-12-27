@@ -4,13 +4,28 @@ description: Technical stuff
 date: 2020-12-27
 ---
 
-## Code block
+## Code
+
+This is an inline `code block()`, and the following is an indented code block:
+
+    // Comment
+    print 'this is indented code block'
+    print 'line 2'
+    print 'line 3'
+
+### Code block fences
 
 ```javascript
 console.log("Hello World")
 ```
 
-### Math Equations
+```
+// Language not specified
+function hello() {
+  console.log("Hello!");
+}
+```
+## Math Equations
 
 Lift($L$) can be determined by Lift Coefficient ($C_L$) like the following equation.
 
