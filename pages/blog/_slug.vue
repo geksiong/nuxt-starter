@@ -23,7 +23,7 @@
       <NuxtLink
         v-if="prev"
         :to="{ name: 'blog-slug', params: { slug: prev.slug } }"
-        class="text-primary font-bold hover:underline"
+        class="font-bold text-primary hover:underline"
       >
         {{ prev.title }}
       </NuxtLink>
@@ -61,3 +61,9 @@ export default {
   },
 }
 </script>
+
+<style>
+.math-inline svg {
+  display: inline;
+}
+</style>
