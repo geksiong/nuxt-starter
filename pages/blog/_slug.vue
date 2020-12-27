@@ -2,7 +2,28 @@
   <article class="prose lg:prose-xl">
     <h1>{{ article.title }}</h1>
     <p>Updated {{ formatDate(article.date) }}</p>
+
     <nuxt-content :document="article" />
+
+    <!-- previous/next links -->
+    <div class="flex justify-between">
+      <NuxtLink
+        v-if="prev"
+        :to="{ name: 'blog-slug', params: { slug: prev.slug } }"
+        class="text-primary font-bold hover:underline"
+      >
+        {{ prev.title }}
+      </NuxtLink>
+      <span v-else>&nbsp;</span>
+      <NuxtLink
+        v-if="next"
+        :to="{ name: 'blog-slug', params: { slug: next.slug } }"
+        class="font-bold hover:underline"
+      >
+        {{ next.title }}
+      </NuxtLink>
+      <span v-else>&nbsp;</span>
+    </div>
   </article>
 </template>
 
@@ -11,7 +32,13 @@ export default {
   async asyncData({ $content, params }) {
     const article = await $content('blog', params.slug).fetch()
 
-    return { article }
+    const [prev, next] = await $content('blog')
+      .only(['title', 'slug'])
+      .sortBy('createdAt', 'asc')
+      .surround(params.slug)
+      .fetch()
+
+    return { article, prev, next }
   },
   methods: {
     formatDate(date) {
